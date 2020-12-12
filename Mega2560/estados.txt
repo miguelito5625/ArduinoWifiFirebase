@@ -1,0 +1,2 @@
+1. pedTemp = pedir la temperatura al arduino mega a traves del sensor.
+
